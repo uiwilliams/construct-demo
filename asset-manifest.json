@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/construct-demo/static/css/main.9275533d.css",
+    "main.js": "/construct-demo/static/js/main.2ece0997.js",
+    "static/media/video1.mp4": "/construct-demo/static/media/video1.b995828dd29cd1959110.mp4",
+    "index.html": "/construct-demo/index.html",
+    "main.9275533d.css.map": "/construct-demo/static/css/main.9275533d.css.map",
+    "main.2ece0997.js.map": "/construct-demo/static/js/main.2ece0997.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9275533d.css",
+    "static/js/main.2ece0997.js"
+  ]
+}
