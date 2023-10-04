@@ -139,16 +139,16 @@
 .home .homeContent .cardDiv .searchOptions span {
   font-size: 13px;
 }
-.home .homeContent .homeFooterIcons {
+.home .homeContent .homeFooterIcon {
   width: 100%;
   justify-content: space-between;
 }
-.home .homeContent .homeFooterIcons .icon {
+.home .homeContent .homeFooterIcon .icon {
   font-size: 20px;
   margin: 0 5px;
   color: var(--whiteColor);
   font-weight: 600;
 }
-.home .homeContent .homeFooterIcons .icon:hover {
+.home .homeContent .homeFooterIcon .icon:hover {
   color: var(--PrimaryColor);
 }/*# sourceMappingURL=home.css.map */
